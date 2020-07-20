@@ -14,7 +14,7 @@ def pioneer
 end
 
 
-def id_hash_generator(number)
-  number = {:id_hash_generator => Integer }
+def id_hash_generator(Integer)
+  Integer = {:id_hash_generator => [] }
   # return a hash with a key :id assigned to the provided number
 end
